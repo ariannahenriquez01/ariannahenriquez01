@@ -1,0 +1,33 @@
+body{
+  background-color: pink
+}
+
+h1{
+  text-align: center;
+  text-decoration: underline;
+    
+}
+
+.featured{
+  background-color: #bbbbbb;
+  font-family: Helvetica;
+  font-size: 24px;
+  border: 6px double;
+  border-radius: 20px;
+  width: 700px;
+  height: 300px;
+  padding: 40px 25px 15px 30px;
+  margin: 30px 20px 40px 70px;
+
+}
+
+.content{
+  background-color: #bbbbbb;
+  border: 10px solid white;
+  height: 300px;
+  width: 800px;
+  font-size: 20px;
+  overflow: scroll; 
+  padding: 50px 30px;
+  margins: 50px;
+}
